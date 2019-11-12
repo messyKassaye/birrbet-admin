@@ -1,0 +1,2 @@
+export const NETWORK_ERRORS= "NETWORK_ERRORS"
+export const UNKNOWN_ERROR = "UNKNOWN_ERROR"
